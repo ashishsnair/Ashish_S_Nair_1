@@ -1,5 +1,7 @@
 # Ashish_S_Nair_1
 repo of ashish s nair for submission of desgin forge problem statement, ashishsnair27@gmail.com, 9718358727
+MINDFUL WATCHING WITHOUT KILLING ENGAGEMENT
+
 # Zen Tools UI – Work Hours & Rewards Flow
 
 ## Overview
@@ -23,6 +25,6 @@ once time limit is exceeded it will show up like this, you can choose to continu
 - Integrate with other reward options.
 - Add notifications for upcoming focus sessions.
 ## Figma link: 
-https://www.figma.com/design/EX0NVndImyBMYwEHn3nMLk/Untitled?node-id=12-6110&t=Nx1GofPajfv2HUwq-1
+https://www.figma.com/design/EX0NVndImyBMYwEHn3nMLk/ZEN-TOOLS-IN-YT?node-id=12-6110&t=Nx1GofPajfv2HUwq-1
 
 PLEASE NOTE THERE ARE TWO PAGES IN THE FIGMA FILE, CHANGE TO PAGE 1 FOR DESGIN AND RAW FILES, AND INTRO PAGE FOR EXPLANATION
