@@ -22,3 +22,7 @@ once time limit is exceeded it will show up like this, you can choose to continu
 - Add animations when users complete a session.
 - Integrate with other reward options.
 - Add notifications for upcoming focus sessions.
+## Figma link: 
+https://www.figma.com/design/EX0NVndImyBMYwEHn3nMLk/Untitled?node-id=12-6110&t=Nx1GofPajfv2HUwq-1
+
+PLEASE NOTE THERE ARE TWO PAGES IN THE FIGMA FILE, CHANGE TO PAGE 1 FOR DESGIN AND RAW FILES, AND INTRO PAGE FOR EXPLANATION
